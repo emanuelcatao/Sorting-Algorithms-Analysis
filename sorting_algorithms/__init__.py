@@ -1,0 +1,1 @@
+from sorting_algorithms.merge_sort import merge_sort
